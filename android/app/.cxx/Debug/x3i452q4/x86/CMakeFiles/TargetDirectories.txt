@@ -1,0 +1,2 @@
+D:/CODE/FLUTTER_MAJOR_APPS/fitbeast_flutter/fitbeast/android/app/.cxx/Debug/x3i452q4/x86/CMakeFiles/edit_cache.dir
+D:/CODE/FLUTTER_MAJOR_APPS/fitbeast_flutter/fitbeast/android/app/.cxx/Debug/x3i452q4/x86/CMakeFiles/rebuild_cache.dir
