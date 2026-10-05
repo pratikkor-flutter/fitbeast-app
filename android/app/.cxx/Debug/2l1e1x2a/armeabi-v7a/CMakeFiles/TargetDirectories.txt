@@ -1,0 +1,2 @@
+D:/freelance_work/fitbeast-app/android/app/.cxx/Debug/2l1e1x2a/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/freelance_work/fitbeast-app/android/app/.cxx/Debug/2l1e1x2a/armeabi-v7a/CMakeFiles/rebuild_cache.dir

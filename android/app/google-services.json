@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "505103294412",
+    "project_id": "fitbeast-5d978",
+    "storage_bucket": "fitbeast-5d978.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505103294412:android:6963e34f101bdf00424769",
+        "android_client_info": {
+          "package_name": "com.example.fitbeast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505103294412-dhaukit5kft3174n1slmf6tciipe6j14.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fitbeast",
+            "certificate_hash": "bdac0179a123bfef7e40cde573f7786446ca8e84"
+          }
+        },
+        {
+          "client_id": "505103294412-v3fkgb6k6j1e658ukor1hutta06uu5lj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK-73v_AQQCEcMK2MflUV2moeJ3hC1fgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505103294412-v3fkgb6k6j1e658ukor1hutta06uu5lj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "505103294412-cvntppdp0m7ns3d2khvlde8cgc27jbft.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fitbeast"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
