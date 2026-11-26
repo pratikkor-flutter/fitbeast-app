@@ -8,7 +8,6 @@ A smart, cross-platform fitness monitoring application that uses Flutter, Fireba
   <img src="https://img.shields.io/badge/GetX-state%20management-green?logo=dart" />
   <img src="https://img.shields.io/badge/Python-Flask%20API-orange?logo=python" />
   <img src="https://img.shields.io/badge/ML-KMeans%20+%20KNN-9cf?logo=scikit-learn" />
-  <img src="https://img.shields.io/badge/status-under%20active%20development-yellow" />  
 </p>
 
 ---
